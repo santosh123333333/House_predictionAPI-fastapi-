@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100%2B-009688)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
+
 
 A production-ready Machine Learning API built with **FastAPI** that predicts house prices based on property features. This project demonstrates the complete lifecycle of an ML application: from data exploration and model training to deploying a fast, interactive RESTful API.
 
